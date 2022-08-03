@@ -1,0 +1,9 @@
+﻿  game.cpp
+C:\Users\ciara\Desktop\102\501 - inter\DartsAttempt1\game.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ciara\Desktop\102\501 - inter\DartsAttempt1\game.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+  interactivePlayer.cpp
+  player.cpp
+  Source.cpp
+C:\Users\ciara\Desktop\102\501 - inter\DartsAttempt1\Source.cpp(21,11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  DartsAttempt1.vcxproj -> C:\Users\ciara\Desktop\102\501 - inter\Debug\DartsAttempt1.exe

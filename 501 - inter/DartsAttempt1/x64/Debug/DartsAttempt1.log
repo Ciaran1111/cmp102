@@ -1,0 +1,8 @@
+﻿  game.cpp
+  interactivePlayer.cpp
+  player.cpp
+C:\Users\ciara\Desktop\102CW\501 - inter\DartsAttempt1\player.cpp(118,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+C:\Users\ciara\Desktop\102CW\501 - inter\DartsAttempt1\Source.cpp(21,11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  DartsAttempt1.vcxproj -> C:\Users\ciara\Desktop\102CW\501 - inter\x64\Debug\DartsAttempt1.exe
